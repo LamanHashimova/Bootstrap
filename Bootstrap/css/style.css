@@ -1,0 +1,15 @@
+.text h2{
+    font-size: 36px;
+    color: #555555;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.text h3{
+    font-size: 16px;
+    color: #9A9A9A;
+    font-family: sans-serif;  
+}
+.text{
+text-align: center;
+margin-top: 30px;
+}
